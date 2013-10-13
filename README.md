@@ -4,6 +4,8 @@ setup-os-x
 Preliminary List
 ----------------
 
+Get xcode version: `/Developer/usr/bin/xcodebuild -version` 
+
 1. XCode
 1. XQuartz
 1. Homebrew

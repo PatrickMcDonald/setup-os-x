@@ -8,6 +8,7 @@ Preliminary List
 1. XQuartz
 1. Homebrew
 1. Mono
+1. RVM
 1. Ruby
 2. Ruby gems
 1. node.js

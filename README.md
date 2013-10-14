@@ -11,10 +11,10 @@ Get xcode version: `/Developer/usr/bin/xcodebuild -version`
 1. [XQuartz](http://xquartz.macosforge.org/landing/)
 1. [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
 1. [Mono](http://www.mono-project.com/)
-1. RVM
-1. Ruby (1.9.3)
+1. RVM `\curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable`
+1. Ruby (1.9.3) `rvm install 1.9.3` `rvm --default 1.9.3`
 2. Ruby gems?
-1. node.js
+1. node.js `brew install node`
 1. Python?
 1. PostGreSQL
 1. Sublime Text 3

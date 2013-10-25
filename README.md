@@ -29,7 +29,7 @@ Get xcode version: `/usr/bin/xcodebuild -version`
 1. Git ? `brew install git`
 1. zsh?
 1. [Boot Camp](http://www.apple.com/support/bootcamp/)
-
++ MacVim `brew install macvim` or `brew install macvim --override-system-vim`
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/PatrickMcDonald/setup-os-x/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 

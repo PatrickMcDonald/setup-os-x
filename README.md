@@ -13,22 +13,42 @@ Preliminary List
 Get xcode version: `/usr/bin/xcodebuild -version`
 
 1. [XCode](https://developer.apple.com/xcode/)
-1. XCode command-line tools (XCode->Preferences->Downloads and install Command Line Tools)
-1. [XQuartz](http://xquartz.macosforge.org/landing/)
-1. [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
-1. [Mono](http://www.mono-project.com/)
-1. [RVM](https://rvm.io/rvm/install) `\curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable`
-1. Ruby (1.9.3) `rvm install 1.9.3` `rvm --default 1.9.3`
-2. Ruby gems?
-1. node.js `brew install node`
-1. Python?
-1. PostGreSQL
-1. [Sublime Text 3](http://www.sublimetext.com/3)
-1. DropBox
-1. [GitHub for Mac](http://mac.github.com/)
-1. Git ? `brew install git`
-1. zsh?
-1. [Boot Camp](http://www.apple.com/support/bootcamp/)
+
++ XCode command-line tools (XCode->Preferences->Downloads and install Command Line Tools)
+
++ [XQuartz](http://xquartz.macosforge.org/landing/)
+
++ [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
++ [Mono](http://www.mono-project.com/)
+
++ [RVM](https://rvm.io/rvm/install) `\curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable`
+
++ Ruby (1.9.3) `rvm install 1.9.3` `rvm --default 1.9.3`
+
++ Ruby gems?
+
++ node.js `brew install node`
+	- `npm install -g express`
+	- `npm install -g jade`
+	- `npm install -g grunt-cli`
+	- `npm install -g http-server`
+
++ Python?
+
++ PostGreSQL
+
++ [Sublime Text 3](http://www.sublimetext.com/3)
+
++ DropBox
+
++ [GitHub for Mac](http://mac.github.com/)
+
++ Git ? `brew install git`
+
++ zsh?
+
++ [Boot Camp](http://www.apple.com/support/bootcamp/)
+
 + MacVim `brew install macvim` or `brew install macvim --override-system-vim`
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/PatrickMcDonald/setup-os-x/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
